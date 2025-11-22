@@ -1,6 +1,6 @@
 # Hi there, I'm Ahmed Abdelaziz! 👋
 
-🎓 **AI Engineer (LLMs, NLP, Deep Learning) | Building Intelligent & Scalable ML Systems**  
+ **AI Engineer (LLMs, NLP, Deep Learning) | Building Intelligent & Scalable ML Systems**  
 📍 Cairo, Egypt  
 
 I'm a passionate AI engineer focused on building **LLM-powered applications**,  
